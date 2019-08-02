@@ -30,12 +30,12 @@ html {
 .header_logo {
     float: center;
     text-align: center;
-    margin-top: 8px;   
+    margin-top: 12px;   
 }
 
 .header_logo img {
-    height: 40px;
-    width: 180px;
+    height: 35px;
+    width: 155px;
 }
 
 .header_social {
